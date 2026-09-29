@@ -1,4 +1,4 @@
-﻿# DecodeLabs — Enterprise Cloud Architecture & AI Systems
+# DecodeLabs — Enterprise Cloud Architecture & AI Systems
 > **Task 1** of the **DECODE Full-Stack Web Development Internship**
 
 DecodeLabs is a high-performance, enterprise-grade digital engineering and cloud architecture landing platform built from scratch with pure modern web technologies (HTML5, CSS3, and Vanilla JavaScript).
@@ -6,8 +6,8 @@ DecodeLabs is a high-performance, enterprise-grade digital engineering and cloud
 ---
 
 ## 🚀 Live Demo & Preview
-- **Live URL**: [Add your deployed GitHub Pages / Vercel link here]
-- **Repository**: [Add your GitHub repository URL here]
+- **Live URL**: [https://mrdanial526.github.io/Task_1/](https://mrdanial526.github.io/Task_1/)
+- **Repository**: [https://github.com/mrdanial526/Task_1](https://github.com/mrdanial526/Task_1)
 
 ---
 
@@ -57,7 +57,7 @@ DecodeLabs is a high-performance, enterprise-grade digital engineering and cloud
 
 1. **Clone the repository**:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/mrdanial526/Task_1.git
    ```
 2. **Open the project**:
    Simply open `index.html` in any modern web browser or use a live server extension (e.g., VS Code Live Server).
