@@ -10,7 +10,6 @@
 ---
 
 ## 🔗 Live Links
-- **Live Demo**: [https://mrdanial526.github.io/Task_1/](https://mrdanial526.github.io/Task_1/)
 - **GitHub Repository**: [https://github.com/mrdanial526/Task_1](https://github.com/mrdanial526/Task_1)
 
 ---
